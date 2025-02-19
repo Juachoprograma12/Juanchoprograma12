@@ -19,7 +19,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 
-<a href="https://www.linkedin.com/in/juan-pérez-4512a7269" target="blank"><img align="center" src="https://img.shields.io/badge/Juan Cordero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:perezcorderojuanjose@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/perezcorderojuanjose@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/juan-pérez-4512a7269" target="blank"><img align="center" src="https://img.shields.io/badge/Juan Cordero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:perezcorderojuanjose@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/perezcorderojuanjose@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/Juachoprograma12/Juanchoprograma12/blob/main/README.md" target="blank"><img align="center" src="https://img.shields.io/badge/Juancho-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   
 <Br>
 <hr>

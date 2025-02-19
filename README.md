@@ -28,11 +28,10 @@
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
 
-|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
-|---|---|---|---|---|
 |![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Big%20Data-yellow?style=for-the-badge)|
+|---|---|---|---|---|
 |![](https://img.shields.io/badge/DS-Cloud%20Computing-yellow?style=for-the-badge)|![](https://img.shields.io/badge/DS-Automation%20of%20Data-yellow?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Warehousing-yellow?style=for-the-badge)|![](https://img.shields.io/badge/BI-Business%20Intelligence-yellow?style=for-the-badge)|![](https://img.shields.io/badge/ML-NLP%20Text%20Analysis-brightgreen?style=for-the-badge)|
-|![](https://img.shields.io/badge/Programming%20Languages-R-blue?style=for-the-badge)|![](https://img.shields.io/badge/SQL%20Advanced-blue?style=for-the-badge)|![](https://img.shields.io/badge/Cloud%20Platforms-AWS%20%7C%20Google%20Cloud%20%7C%20Azure-blue?style=for-the-badge)|![](https://img.shields.io/badge/Python%20Advanced-yellow?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/Pro
   
 <Br>
 <hr>

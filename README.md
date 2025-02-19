@@ -18,9 +18,9 @@
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
-<p align="center">
-<a href="https://www.linkedin.com/in/juan-p%C3%A9rez-4512a7269" target="blank"><img align="center" src="https://img.shields.io/badge/Juan Cordero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a a href="mailto:perezcorderojuanjose@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/perezcorderojuanjose@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/Juachoprograma12/Juanchoprograma12" target="blank"><img align="center" src="https://img.shields.io/badge/Juan-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+
+|![](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
+|---|---|---|
   
 <Br>
 <hr>

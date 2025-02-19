@@ -28,10 +28,10 @@
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
 
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Big%20Data-yellow?style=for-the-badge)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/DS-Cloud%20Computing-yellow?style=for-the-badge)|![](https://img.shields.io/badge/DS-Automation%20of%20Data-yellow?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Warehousing-yellow?style=for-the-badge)|![](https://img.shields.io/badge/BI-Business%20Intelligence-yellow?style=for-the-badge)|![](https://img.shields.io/badge/ML-NLP%20Text%20Analysis-brightgreen?style=for-the-badge)|
-|![](https://img.shields.io/badge/Pro
+|![](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
+|---|---|---|
+|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|
+|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)|![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   
 <Br>
 <hr>

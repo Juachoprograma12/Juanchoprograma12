@@ -19,8 +19,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 
-|![](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
-|---|---|---|
+<a href="https://www.linkedin.com/in/juan-pérez-4512a7269" target="blank"><img align="center" src="https://img.shields.io/badge/Juan Cordero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   
 <Br>
 <hr>

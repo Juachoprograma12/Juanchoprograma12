@@ -9,13 +9,10 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a grade 9, High School Student.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+- 🏫: Soy un Analista de Datos apasionado por la tecnología y el aprendizaje.
+- 🔭: Actualmente trabajo en proyectos que involucran Python, SQL y Power BI.
+- 🌱: Estoy ampliando mis conocimientos en visualización de datos y aprendizaje automático.
+- 🤔: Busco oportunidades para colaborar en proyectos basados en datos.
   
 <hr>
 <Br>

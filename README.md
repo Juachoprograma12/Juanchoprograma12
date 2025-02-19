@@ -51,7 +51,6 @@
 <Br>
   
 [![ReadMe Card](https://github.com/Juachoprograma12/prueba-proyecto/blob/master/Desktop/Proyecto/Copia_de_Untitled4.ipynb)
-
 <Br>
 <hr>
 <Br>

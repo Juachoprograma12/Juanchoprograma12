@@ -50,7 +50,7 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github.com/Juachoprograma12/Proyecto-Backend-Colab.git)
+[![ReadMe Card](https://github.com/Juachoprograma12/prueba-proyecto.git)
 
 <Br>
 <hr>

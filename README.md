@@ -47,7 +47,7 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[Ver Proyecto](https://github.com/Juachoprograma12/prueba-proyecto/blob/master/Desktop/Proyecto/Copia_de_Untitled4.ipynb)
+[Ver Proyecto] (https://github.com/Juachoprograma12/prueba-proyecto/blob/master/Desktop/Proyecto/Copia_de_Untitled4.ipynb)
 
 <Br>
 <hr>

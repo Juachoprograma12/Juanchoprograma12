@@ -48,7 +48,7 @@
 <Br>
   
 [Ver Proyecto] 
-![Mi Imagen](https://github.com/Juachoprograma12/prueba-proyecto/blob/master/Desktop/Proyecto/Copia_de_Untitled4.ipynb/Desktop/hq720.jpg)
+![Mi Imagen](https://github.com/Juachoprograma12/prueba-proyecto/blob/master/Desktop/Proyecto/Copia_de_Untitled4.ipynb/Desktop/hq720.jpg?raw=true)
 
 <Br>
 <hr>

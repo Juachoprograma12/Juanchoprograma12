@@ -45,12 +45,30 @@
 
 <p align="center">
   <a href="https://github.com/Juachoprograma12/prueba-proyecto/blob/master/Desktop/Proyecto/Copia_de_Untitled4.ipynb" target="_blank">
-    <img src="https://raw.githubusercontent.com/Juachoprograma12/prueba-proyecto/master/Desktop/Proyecto/hq720.jpg" alt="Mi Proyecto" width="500px"/>
+    <img src="https://raw.githubusercontent.com/Juachoprograma12/prueba-proyecto/master/Desktop/Proyecto/hq720.jpg" alt="Proyecto Nobel" width="500px"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Juachoprograma12/prueba-proyecto/blob/master/Desktop/Proyecto/Copia_de_Untitled4.ipynb" target="_blank">
-    📌 Ver Proyecto
+    📌 Ver Proyecto Completo
   </a>
 </p>
+
+---
+
+### 📊 Análisis de Premios Nobel — Proyecto Individual
+
+🔍 **Descripción del proyecto:**  
+Realicé un análisis exploratorio de los datos históricos de los **Premios Nobel**, con el objetivo de identificar patrones interesantes y responder preguntas como:
+
+- ¿Qué países han ganado más premios?
+- ¿Hay diferencias entre hombres y mujeres premiados?
+- ¿Cuál es la edad promedio de los ganadores?
+
+🧰 **Herramientas utilizadas:**  
+`Python`, `Pandas`, `Matplotlib`, `Jupyter Notebook`
+
+🎯 **Resultado:**  
+Este proyecto demuestra mi capacidad para trabajar con datos reales, hacer limpieza y visualización efectiva, y comunicar hallazgos de valor. Fue un trabajo 100% individual y forma parte de mi formación como analista de datos.
+

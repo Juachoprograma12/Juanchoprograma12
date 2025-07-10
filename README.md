@@ -41,15 +41,16 @@
 |![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)|![](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)|![](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)|![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)|
   
 
-<Br>
-<hr>
-<Br>
 <h1>Some of my Projects! 🎨</h1>
-<Br>
-  
-[Ver Proyecto] 
-![Mi Imagen](https://github.com/Juachoprograma12/prueba-proyecto/blob/master/Desktop/Proyecto/Copia_de_Untitled4.ipynb/Desktop/hq720.jpg?raw=true)
 
-<Br>
-<hr>
-<Br>
+<p align="center">
+  <a href="https://github.com/Juachoprograma12/prueba-proyecto/blob/master/Desktop/Proyecto/Copia_de_Untitled4.ipynb" target="_blank">
+    <img src="https://raw.githubusercontent.com/Juachoprograma12/prueba-proyecto/master/Desktop/Proyecto/hq720.jpg" alt="Mi Proyecto" width="500px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Juachoprograma12/prueba-proyecto/blob/master/Desktop/Proyecto/Copia_de_Untitled4.ipynb" target="_blank">
+    📌 Ver Proyecto
+  </a>
+</p>
